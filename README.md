@@ -9,7 +9,8 @@ Archea is the one I have spent the most time on, and I think it is the best game
 
 #### [Frost][Frost]
 
-Frost is the second-best one in my opinion. I made it over five long days, technechally for a game jam, but the game jam was for Unreal Engine, which I don't know. So, I used Godot and didn't submit this game. The theme for the game jam was something like "**_What is hidden in snow comes forth in the thaw_**", so I did the obvious thing and made a deckbuilding game with fire and ice monsters fighting each other. My younger brother helped me with a lot of the art.
+Frost is the second-best one in my opinion. I made it over five long days, technechally for a game jam, which is when you make a game from start to finish in X days, but the game jam was for Unreal Engine, which I don't know. So, I used Godot and didn't submit this game. The theme for the game jam was something like "**_What is hidden in snow comes forth in the thaw_**", so I did the obvious thing and made a deckbuilding game with fire and ice monsters fighting each other. My younger brother helped me with a lot of the art.  
+![Frost screenshot](Frost_Screenshot.png)
 
 #### [Kite Man][Kite Man]
 
@@ -18,7 +19,7 @@ And then there's Kite Man. Made for Ludem Dare 46, themed Keep it Alive, over th
 
 #### Fam Jams
 
-Once a month my famliy gets together and spends a saturday making a video game. One of my younger brothers is "in charge" and tells us what to make. Then, the we all make something together. All our Fam Jam games are [here][Fam Jam].
+Once a month my famliy gets together and spends a saturday making a video game. One of my younger brothers is the creative director and tells us what to make. Then, the we all make something together. All our Fam Jam games are [here][Fam Jam].
 
 [Archea]: https://the-alex-g.github.io/Archea
 [Frost]: https://the-alex-g.github.io/Frost
