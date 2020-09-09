@@ -14,7 +14,7 @@ I am a fairly average person who happens to enjoy making video games. Recently I
 
 #### Kite Man
 
-And then there's [Kite Man][Kite Man]. Made for Ludem Dare 46, themed Keep it Alive, over the course of one day. The game jam was a two-day thing, but my first idea didn't work out, so I was left with the second day to make something.  
+And then there's [Kite Man][Kite Man]. Made for Ludem Dare 46, themed Keep it Alive, over the course of one day. The game jam was a two-day thing, but my first idea didn't work out, so I was left with the second day to make something. The running guy was inspired by the little red character from Mevo and the Grooveriders. Note: this is not an accurate representation of how to fly a kite.  
 ![Kite Man screenshot](Kite_Man_Screenshot.png)
 
 #### Fam Jams
