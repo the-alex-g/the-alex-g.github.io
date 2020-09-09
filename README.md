@@ -1,6 +1,6 @@
 ### Hello!
 
-I am a fairly average person who happens to enjoy making video games. Recently I have been using Godot, but have previously used Gamemaker and Construct 2. All these games were done in Godot, and all the art was done in Piskel.
+I am a fairly average person who happens to enjoy making video games. Recently I have been using Godot, but have previously used Gamemaker and [Construct 2.](https://www.construct.net/en/tutorials/beginners-guide-construct-47) All these games were done in [Godot](https://docs.godotengine.org/en/stable/index.html), and all the art was done in [Piskel](https://www.piskelapp.com).
 
 #### Archea
 
