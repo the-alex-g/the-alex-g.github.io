@@ -9,7 +9,7 @@ I am a fairly average person who happens to enjoy making video games. Recently I
 
 #### Frost
 
-[Frost][Frost] is the second-best one in my opinion. I made it over five long days, technechally for a game jam, which is when you make a game from start to finish in X days, but the game jam was for Unreal Engine, which I don't know. So, I used Godot and didn't submit this game. The theme for the game jam was something like "_What is hidden in snow comes forth in the thaw_", so I did the obvious thing and made a deckbuilding game with fire and ice monsters fighting each other. My younger brother helped me with a lot of the art.  
+Frost is the second-best one in my opinion. I made it over five long days, technechally for a game jam, which is when you make a game from start to finish in X days, but the game jam was for Unreal Engine, which I don't know. So, I used Godot and didn't submit this game. The theme for the game jam was something like "_What is hidden in snow comes forth in the thaw_", so I did the obvious thing and made a deckbuilding game with fire and ice monsters fighting each other. My younger brother helped me with a lot of the art. For unknown reasons, this game is not working quite right, so there is no link to it.  
 ![Frost screenshot](Frost_Screenshot.png)
 
 #### Kite Man
