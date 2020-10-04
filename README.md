@@ -9,7 +9,7 @@ I enjoy making video games, and have been doing so for several years. Recently I
 
 #### Frost
 
-Frost is the second-best one in my opinion. I made it over five long days for a game jam. This particular jam was sponsored by Epic Games, and in order to submit the game you had to make it in Unreal Engine, a tool I don't know. I made this game in Godot, because I know it much better, but wasn't able to submit the game officially. The theme for the game jam was "_What is hidden in snow comes forth in the thaw_", so I did the obvious thing and made a deckbuilding game with fire and ice monsters fighting each other. My younger brother helped me with a lot of the art. Link coming soon.  
+Frost is the second-best one in my opinion. I made it over five long days for a game jam. This particular jam was sponsored by Epic Games, and in order to submit the game you had to make it in Unreal Engine, a tool I don't know. I made this game in Godot, because I know it much better, but wasn't able to submit the game officially. The theme for the game jam was "_What is hidden in snow comes forth in the thaw_", so I did the obvious thing and made a deckbuilding game with fire and ice monsters fighting each other. Leo helped me with a lot of the art. Link coming soon.  
 ![Frost screenshot](Frost_Screenshot.png)
 
 #### Kite Man
@@ -19,7 +19,7 @@ And then there's [Kite Man][Kite Man]. Made for Ludem Dare 46, themed Keep it Al
 
 #### Torus
 
-I made [Torus][Torus] for Ludem Dare 47. The theme was Stuck in a Loop, and I wanted to make a three-demensional game. I had to make this in one day, because my Peter's birthday was tomorrow. Still, I think it turned out pretty well.  
+I made [Torus][Torus] for Ludem Dare 47. The theme was Stuck in a Loop, and I wanted to make a three-demensional game. I had to make this in one day, because Peter's birthday was tomorrow. Still, I think it turned out pretty well.  
 ![Torus screenshot](TorusScreenshot.png)
 
 #### Fam Jams
