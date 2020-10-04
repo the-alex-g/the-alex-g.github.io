@@ -17,6 +17,10 @@ Frost is the second-best one in my opinion. I made it over five long days for a 
 And then there's [Kite Man][Kite Man]. Made for Ludem Dare 46, themed Keep it Alive, over the course of one day. The game jam was a two-day thing, but my first idea didn't work out, so I was left with the second day to make something. The running guy was inspired by the little red character from Mevo and the Grooveriders. Note: this is not an accurate representation of how to fly a kite.  
 ![Kite Man screenshot](Kite_Man_Screenshot.png)
 
+#### Torus
+
+I made [Torus][Torus] for Ludem Dare 47. The theme was Stuck in a Loop, and I wanted to make a three-demensional game. I had to make this in one day, because my Peter's birthday was tomorrow. Still, I think it turned out pretty well.
+
 #### Fam Jams
 
 Once a month my famliy gets together and spends a saturday making a video game. One of my younger brothers is the creative director and tells us what to make. Then, we all make something together. All our Fam Jam games are [here][Fam Jam].
@@ -24,4 +28,5 @@ Once a month my famliy gets together and spends a saturday making a video game. 
 [Archea]: https://the-alex-g.github.io/Archea
 [Frost]: https://the-alex-g.github.io/Frost
 [Kite Man]: https://the-alex-g.github.io/LD46
+[Torus]: https://the-alex-g.github.io/LD47
 [Fam Jam]: https://the-g-force.github.io
