@@ -19,7 +19,8 @@ And then there's [Kite Man][Kite Man]. Made for Ludem Dare 46, themed Keep it Al
 
 #### Torus
 
-I made [Torus][Torus] for Ludem Dare 47. The theme was Stuck in a Loop, and I wanted to make a three-demensional game. I had to make this in one day, because my Peter's birthday was tomorrow. Still, I think it turned out pretty well.
+I made [Torus][Torus] for Ludem Dare 47. The theme was Stuck in a Loop, and I wanted to make a three-demensional game. I had to make this in one day, because my Peter's birthday was tomorrow. Still, I think it turned out pretty well.  
+![Torus screenshot](TorusScreenshot.png)
 
 #### Fam Jams
 
