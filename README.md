@@ -14,12 +14,12 @@ Frost is the second-best one in my opinion. I made it over five long days for a 
 
 #### Kite Man
 
-And then there's [Kite Man][Kite Man]. Made for Ludem Dare 46, themed Keep it Alive, over the course of one day. The game jam was a two-day thing, but my first idea didn't work out, so I was left with the second day to make something. The running guy was inspired by the little red character from Mevo and the Grooveriders. Note: this is not an accurate representation of how to fly a kite.  
+And then there's [Kite Man][Kite Man]. Made for Ludum Dare 46, themed Keep it Alive, over the course of one day. The game jam was a two-day thing, but my first idea didn't work out, so I was left with the second day to make something. The running guy was inspired by the little red character from Mevo and the Grooveriders. Note: this is not an accurate representation of how to fly a kite.  
 ![Kite Man screenshot](Kite_Man_Screenshot.png)
 
 #### Torus
 
-I made [Torus][Torus] for Ludem Dare 47. The theme was Stuck in a Loop, and I wanted to make a three-demensional game. I had to make this in one day, because Peter's birthday was tomorrow. Still, I think it turned out pretty well.  
+I made [Torus][Torus] for Ludum Dare 47. The theme was Stuck in a Loop, and I wanted to make a three-demensional game. I had to make this in one day, because Peter's birthday was tomorrow. Still, I think it turned out pretty well.  
 ![Torus screenshot](TorusScreenshot.png)
 
 #### Fam Jams
