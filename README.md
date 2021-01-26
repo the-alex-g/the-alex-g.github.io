@@ -4,7 +4,7 @@ I enjoy making video games, and have been doing so for several years. Recently I
 
 #### Archea
 
-[Archea][Archea] is the one I have spent the most time on, and I think it is the best game I've made to date. It was inspired by Dead Cells, which is a platformer where you run through levels and fight bad guys and collect treasure (like most games). There are still some bugs to work out here, but they shouldn't be a problem if you want to play.  
+[Archea][Archea] is the one I have spent the most time on, and I think it is the best game I've made to date. It was inspired by Dead Cells, which is a platformer where you run through levels and fight bad guys and collect treasure (like most games).
 ![Archea screenshot](Archea_Screenshot.png)
 
 #### Frost
@@ -14,7 +14,7 @@ Frost is the second-best one in my opinion. I made it over five long days for a 
 
 #### Kite Man
 
-And then there's [Kite Man][Kite Man]. Made for Ludum Dare 46, themed Keep it Alive, over the course of one day. The game jam was a two-day thing, but my first idea didn't work out, so I was left with the second day to make something. The running guy was inspired by the little red character from Mevo and the Grooveriders. Note: this is not an accurate representation of how to fly a kite.  
+And then there's [Kite Man][Kite Man]. Made for Ludum Dare 46, themed Keep it Alive, over the course of one day. The game jam was over a two-day period, but my first idea didn't work out, so I was left with the second day to make something. The running guy was inspired by the little red character from Mevo and the Grooveriders. Note: this is not an accurate representation of how to fly a kite.  
 ![Kite Man screenshot](Kite_Man_Screenshot.png)
 
 #### Torus
