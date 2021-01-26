@@ -4,7 +4,7 @@ I enjoy making video games, and have been doing so for several years. Recently I
 
 #### Archea
 
-[Archea][Archea] is the one I have spent the most time on, and I think it is the best game I've made to date. It was inspired by Dead Cells, which is a platformer where you run through levels and fight bad guys and collect treasure (like most games).
+[Archea][Archea] is the one I have spent the most time on, and I think it is the best game I've made to date. It was inspired by Dead Cells, which is a platformer where you run through levels and fight bad guys and collect treasure (like most games).  
 ![Archea screenshot](Archea_Screenshot.png)
 
 #### Frost
