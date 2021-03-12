@@ -28,7 +28,7 @@ I made [Fathom][Fathom] for the seven-day roguelike challenge (7DRL) where you h
 
 ### Fam Jams
 
-Once a month my famliy gets together and spends a saturday making a video game. One of my younger brothers is the creative director and tells us what to make. Then, we all make something together. All our Fam Jam games are [here][Fam Jam].
+Once a month my family gets together and spends a saturday making a video game. One of my younger brothers is the creative director and tells us what to make. Then, we all make something together. All our Fam Jam games are [here][Fam Jam].
 
 [Archea]: https://the-alex-g.github.io/Archea
 [Frost]: https://the-alex-g.github.io/Frost
