@@ -24,7 +24,8 @@ I made [Torus][Torus] for Ludum Dare 47. The theme was Stuck in a Loop, and I wa
 
 ### Fathom
 
-I made [Fathom][Fathom] for the seven-day roguelike challenge (7DRL) where you have to make a complete roguelike in seven days. It wasn't quite as hard as I expected, but it definitely helped that I made most of my assets the week before.
+I made [Fathom][Fathom] for the seven-day roguelike challenge (7DRL) where you have to make a complete roguelike in seven days. It wasn't quite as hard as I expected, but it definitely helped that I made most of my assets the week before.  
+![Fathom screenshot](Fathom2.png)
 
 ### Fam Jams
 
