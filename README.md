@@ -1,3 +1,7 @@
+Visit [my html page](https://the-alex-g.github.io) for the portfolio I built for CSSE 280 at Rose.
+
+This other stuff is what was originally on my github page and I don't want to delete it just yet.
+
 ## Hello!
 
 I enjoy making video games, and have been doing so for several years. Recently I have been using Godot, but have previously used Gamemaker and [Construct 2.](https://www.construct.net/en/tutorials/beginners-guide-construct-47) Unless otherwise specified, these games were made in [Godot](https://docs.godotengine.org/en/stable/index.html), and all the art was done in [Piskel](https://www.piskelapp.com). Sometimes I participate in Game Jams, where you spend some number of days making a game from start to finish, usually with a theme, which can be almost anything. All of the games here need a keyboard and mouse to play.
