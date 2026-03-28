@@ -21,12 +21,6 @@ img {
     margin: 10px;
 }
 
-.ticTacToeButton {
-    min-width: 30px;
-    min-height: 30px;
-    font-size: large;
-}
-
 .banner {
 	width: 100%;
 	max-width: 600px;

@@ -23,7 +23,6 @@ let runs = [
     [[2, 0], [2, 1], [2, 2]],
 ]
 let gameOver = false;
-let defaultStartMessage = "Play tic-tac-toe! Click on the grid above to place your X's!"
 
 function postEndGameMessage(message) {
     document.getElementById("gameOverMessage").innerText = "Game Over! " + message;
@@ -51,6 +50,29 @@ function doAIWin() {
 }
 
 function placeAIPiece() {
+    // win the game
+    for (let run of runs) {
+        let friendlyPiecesInRun = 0;
+        let emptyCellsInRun = 0;
+        for (let coord of run) {
+            let x = coord[0], y = coord[1];
+            if (board[y][x] == X) {
+                friendlyPiecesInRun += 1;
+            } else if (board[y][x] == EMPTY) {
+                emptyCellsInRun += 1;
+            }
+        }
+        if (friendlyPiecesInRun == 2 && emptyCellsInRun == 1) {
+            for (let coord of run) {
+                let x = coord[0], y = coord[1];
+                if (board[y][x] == EMPTY) {
+                    board[y][x] = O;
+                    return;
+                }
+            }
+        }
+    }
+    // block enemy
     for (let run of runs) {
         let enemyPiecesInRun = 0;
         let emptyCellsInRun = 0;
@@ -72,6 +94,7 @@ function placeAIPiece() {
             }
         }
     }
+    // place arbitrary piece
     for (let run of runs) {
         let isGoodPlacement = true;
         let spots = [];
@@ -160,7 +183,7 @@ function resetBoard() {
         }
     }
     updateBoard();
-    document.getElementById("gameOverMessage").innerText = defaultStartMessage;
+    document.getElementById("gameOverMessage").innerText = "";
     gameOver = false;
 }
 
@@ -180,5 +203,14 @@ for (let y = 0; y < 3; y++) {
     table.appendChild(row);
 }
 
-document.getElementById("resetButton").addEventListener("click", resetBoard);
+let resetButton = document.createElement("button");
+resetButton.innerText = "Reset";
+resetButton.addEventListener("click", resetBoard);
+
+let resetButtonRow = document.createElement("tr");
+resetButtonRow.ariaColSpan = 3;
+resetButtonRow.appendChild(resetButton);
+resetButtonRow.id = "resetButtonRow";
+table.appendChild(resetButtonRow);
+
 resetBoard();

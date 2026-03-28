@@ -1,0 +1,22 @@
+.ticTacToeButton {
+    min-width: 30px;
+    min-height: 30px;
+    font-size: large;
+    margin: 2px;
+}
+
+#ticTacToeTable {
+    float: left;
+    background-color: darkslategrey;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+#resetButtonRow {
+    text-align: center;
+}
+
+#resetButtonRow button {
+    width: 100%;
+    margin: 2px 2px 2px 0px;
+}
