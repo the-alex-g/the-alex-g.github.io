@@ -1,0 +1,44 @@
+/* the css for the main segment comes from the lighthouse lab we did Friday
+I liked the way it looked, so I stole it */
+body {
+    background-color: #202828;
+}
+
+main {
+	width: 100%;
+	max-width: 600px;
+	margin: 0 auto;
+	font-family: 'Times New Roman', Times, serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+h2 {
+    color: darkslategrey;
+}
+
+img {
+    margin: 10px;
+}
+
+.banner {
+	width: 100%;
+	max-width: 600px;
+	margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: darkslategrey;
+}
+
+.banner a {
+    margin: 10px;
+    color: #b8faff;
+}
+
+.banner a:visited {
+    color: #00fffb;
+}
+
+.banner a:hover {
+    color: #EBFDFF;
+}

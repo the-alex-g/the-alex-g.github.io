@@ -1,10 +1,39 @@
 <html>
   <head>
     <title>Alex's Portfolio</title>
-    <script src="script.js"></script>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="public/style.css">
   </head>
   <body>
-    <p>Sorry, no body for now</p>
+    <main>
+      <h1>Alex Gestwicki's Portfolio</h1>
+      <section>
+        <h2>Shippy</h2>
+        <p>
+          This is a simple space shooter written in HTML and JavaScript, based on Dr. Andy Harris'
+          <a href="https://github.com/twopiharris/simpleGame">simple JavaScript game engine</a>. You can play the game on my
+          <a href="https://the-alex-g.itch.io/shippy">Itch page</a>.
+        </p>
+        <img src="public/images/shippy_screenshot.png" alt="A screenshot of the game showing several spaceships shooting each other">
+      </section>
+      <hr>
+      <section>
+        <h2>Hidden Foes</h2>
+        <p>
+          A collection of 100 homebrew monsters for Dungeons & Dragons. Each monster's data is stored as a YAML file. A
+          Python program parses the YAML into a LaTeX document for human use. Check it out on
+          my <a href="https://the-alex-g.itch.io/hidden-foes">Itch page</a>.
+        </p>
+      </section>
+      <hr>
+      <section>
+        <h2>OVERKILL: the goblin way</h2>
+        <p>
+          A single-player beat-em-up style video game created in <a href="https://godotengine.org/">Godot game engine</a>.
+          Once again, you can play the game at my <a href="https://the-alex-g.itch.io/overkill">Itch page</a>.
+        </p>
+        <img src="public/images/overkill_screenshot.png" alt="A screenshot of the game featuring hordes of brightly colored goblins">
+      </section>
+    </main>
+    <script src="public/html_generator.js"></script>
   </body>
 </html>
