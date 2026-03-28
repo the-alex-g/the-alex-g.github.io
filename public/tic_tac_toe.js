@@ -49,52 +49,32 @@ function doAIWin() {
     postEndGameMessage("You lost.")
 }
 
-function placeAIPiece() {
-    // win the game
+function completeRowOf(piece) {
     for (let run of runs) {
-        let friendlyPiecesInRun = 0;
+        let matchingPiecesInRun = 0;
         let emptyCellsInRun = 0;
         for (let coord of run) {
             let x = coord[0], y = coord[1];
-            if (board[y][x] == X) {
-                friendlyPiecesInRun += 1;
+            if (board[y][x] == piece) {
+                matchingPiecesInRun += 1;
             } else if (board[y][x] == EMPTY) {
                 emptyCellsInRun += 1;
             }
         }
-        if (friendlyPiecesInRun == 2 && emptyCellsInRun == 1) {
+        if (matchingPiecesInRun == 2 && emptyCellsInRun == 1) {
             for (let coord of run) {
                 let x = coord[0], y = coord[1];
                 if (board[y][x] == EMPTY) {
                     board[y][x] = O;
-                    return;
+                    return true;
                 }
             }
         }
     }
-    // block enemy
-    for (let run of runs) {
-        let enemyPiecesInRun = 0;
-        let emptyCellsInRun = 0;
-        for (let coord of run) {
-            let x = coord[0], y = coord[1];
-            if (board[y][x] == X) {
-                enemyPiecesInRun += 1;
-            } else if (board[y][x] == EMPTY) {
-                emptyCellsInRun += 1;
-            }
-        }
-        if (enemyPiecesInRun == 2 && emptyCellsInRun == 1) {
-            for (let coord of run) {
-                let x = coord[0], y = coord[1];
-                if (board[y][x] == EMPTY) {
-                    board[y][x] = O;
-                    return;
-                }
-            }
-        }
-    }
-    // place arbitrary piece
+    return false;
+}
+
+function placeArbitrary() {
     for (let run of runs) {
         let isGoodPlacement = true;
         let spots = [];
@@ -112,9 +92,15 @@ function placeAIPiece() {
         if (isGoodPlacement && spotCount > 0) {
             let index = Math.round(Math.random() * (spotCount - 1));
             board[spots[index][1]][spots[index][0]] = O;
-            return;
+            return true;
         }
     }
+    // we should never get here
+    return false;
+}
+
+function placeAIPiece() {
+    completeRowOf(O) || completeRowOf(X) || placeArbitrary();
 }
 
 function aiMove() {
