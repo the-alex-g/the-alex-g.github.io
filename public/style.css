@@ -1,9 +1,9 @@
-/* the css for the main segment comes from the lighthouse lab we did Friday
-I liked the way it looked, so I stole it */
 body {
     background-color: #202828;
 }
 
+/* the css for the main segment comes from the lighthouse lab we did Friday
+I liked the way it looked, so I stole it */
 main {
 	width: 100%;
 	max-width: 600px;
